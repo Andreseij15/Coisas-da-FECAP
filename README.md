@@ -13,3 +13,5 @@
 * [📂 Modelagem de Software](./Modelagem%20de%20Software)
 ## 👾 Redes de Computadores
 * [📂 Redes de Computadores](./Redes%20de%20Computadores)
+## 🦎 Expert System Certification
+* [📂 Expert System Certification](./Expert%20System%20Certification)
