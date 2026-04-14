@@ -1,4 +1,4 @@
-# Coisas-da-FECAP
+# Primeiro Semestre
 # Datas das provas/trabalho/coisas importantes
 * Dia 25 de Abril prova de Expert System Application
 * Dia 27 de Abril prova de Matemática Discreta
