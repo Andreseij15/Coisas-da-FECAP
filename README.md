@@ -1,5 +1,4 @@
 # Coisas-da-FECAP
-## 📂 Estrutura de Pastas
 ## 📂 Algoritmos e Lógica de Programação
 * [📂 Algoritmos e Lógica de Programação](./Algoritmos%20e%20Lógica%20de%20Programação)
 ## 📂 Algoritmos e Lógica de Programação
