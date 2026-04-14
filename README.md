@@ -3,6 +3,10 @@
 * Dia 25 de Abril prova de Expert System Application
 * Dia 27 de Abril prova de Matemática Discreta
 
+# Links Importantes
+* https://portal.fecap.br/framehtml/web/app/edu/PortalEducacional/login/
+* https://www.gamefy.education/login
+  
 ## 🖥️ Algoritmos e Lógica de Programação
 * [📂 Algoritmos e Lógica de Programação](./Algoritmos%20e%20Lógica%20de%20Programação)
 ## 📂 Banco de Dados
@@ -15,6 +19,4 @@
 * [📂 Redes de Computadores](./Redes%20de%20Computadores)
 ## 🦎 Expert System Certification
 * [📂 Expert System Certification](./Expert%20System%20Certification)
-# Links Importantes
-* https://portal.fecap.br/framehtml/web/app/edu/PortalEducacional/login/
-* https://www.gamefy.education/login
+
