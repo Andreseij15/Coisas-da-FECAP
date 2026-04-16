@@ -1,6 +1,7 @@
 # Primeiro Semestre
 * [Projeto Integrador 1A](./Projeto%20Integrador%201A)
 ## Datas das provas/trabalho/coisas importantes
+* Dia 23 de Abril prova de Modelagem de Software
 * Dia 25 de Abril prova de Expert System Application
 * Dia 27 de Abril prova de Matemática Discreta
 
