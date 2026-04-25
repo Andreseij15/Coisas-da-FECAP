@@ -3,7 +3,7 @@
 ## Datas das provas/trabalho/coisas importantes
 * Dia 23 de Abril prova de Modelagem de Software ✅
 * Dia 24 de Abril prova de Lógica de Programação ✅
-* Dia 25 de Abril prova de Expert System Application 
+* Dia 25 de Abril prova de Expert System Application ✅
 * Dia 27 de Abril prova de Matemática Discreta 
 * Dia 04 de Maio Enviar Banner no Git Hub pra aprovação 
 * Dia 05 de Maio prova do livro Método Sprint. (Quarta feira presencial) 
