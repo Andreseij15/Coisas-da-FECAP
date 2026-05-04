@@ -5,7 +5,7 @@
 * Dia 24 de Abril prova de Lógica de Programação ✅
 * Dia 25 de Abril prova de Expert System Application ✅
 * Dia 27 de Abril prova de Matemática Discreta ✅
-* Dia 04 de Maio Enviar Banner no Git Hub pra aprovação 
+* Dia 04 de Maio Enviar Banner no Git Hub pra aprovação ✅
 * Dia 05 de Maio prova do livro Método Sprint. (Quarta feira presencial) 
 * Dia 11 de Maio segunda entrega da P2 + documentação extensão com empresa via git hub 
 
